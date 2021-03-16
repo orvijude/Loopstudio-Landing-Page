@@ -99,7 +99,7 @@ p {
         font-size: 30px;
         text-transform: uppercase;
         color: $white;
-        font-family: $alata;
+        font-family: $josefin;
     }
     @include laptop {
         display: block;
@@ -115,6 +115,7 @@ p {
         a {
             text-transform: capitalize;
             font-size: 18px;
+            font-family: $alata;
             position: relative;
             &:hover {
                 &::after {
