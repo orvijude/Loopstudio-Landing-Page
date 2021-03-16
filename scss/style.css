@@ -139,7 +139,7 @@ p {
   }
   .nav_links a {
     text-transform: capitalize;
-    font-size: 20px;
+    font-size: 18px;
     position: relative;
   }
   .nav_links a:hover::after {
